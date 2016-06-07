@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:37.170359
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:37
 #+TITLE: 昭覺丈雪醉禪師語錄
 #+PROPERTY: CBETA_ID J27nB194
 #+PROPERTY: ID KR6q0415
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 27, No. B194
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0415_J_004-0323c> 
 #+PROPERTY: JUAN 4
-
- 昭覺丈雪醉禪師語錄卷第四¶
+昭覺丈雪醉禪師語錄卷第四¶
 嗣法門人徹巖等編¶
 
-住成都府昭覺寺¶
+* 住成都府昭覺寺¶
 
 癸卯。中元日。為圓悟佛果大和尚設供。上堂。「乾坤作¶
 殿，碧落為門。星辰似陛，日月如燈。沒量漢子，於中開¶
